@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6abe90d4-fa7b-4241-a9c9-3eb12c6fa785" name="Default Changelist" comment="fixup! V1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <list id="676a1e8f-5739-4b08-b20e-f7c097c1cc65" name="V1" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev-indra" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XghneJ7Ck22FcrDeo6pqBGrEuG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Backend/Bill_Backend" />
+      <recent name="$PROJECT_DIR$/Backend/Bank_Backend" />
+      <recent name="$PROJECT_DIR$/Backend" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6abe90d4-fa7b-4241-a9c9-3eb12c6fa785" name="Default Changelist" comment="" />
+      <changelist id="676a1e8f-5739-4b08-b20e-f7c097c1cc65" name="V1" comment="" />
+      <created>1581473812964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581473812964</updated>
+      <workItem from="1581473815413" duration="10566000" />
+      <workItem from="1581518074586" duration="367000" />
+      <workItem from="1581599253333" duration="126000" />
+      <workItem from="1581638686692" duration="5800000" />
+      <workItem from="1581665174792" duration="2173000" />
+      <workItem from="1581919403671" duration="1540000" />
+      <workItem from="1581935261568" duration="1582000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Backend Implementation">
+      <created>1581474465534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581474465534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Bill Backend Implementation">
+      <created>1581475463540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581475463540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Transfer bank feature">
+      <created>1581654458594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581654458594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Backend Implementation" />
+    <MESSAGE value="Add Bill Backend Implementation" />
+    <MESSAGE value="Add Transfer bank feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Transfer bank feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2" timestamp="1581936311391">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581936311391" />
+    <state x="127" y="90" width="1092" height="629" key="MergeDialog" timestamp="1581945649565">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="127" y="90" width="1092" height="629" key="MergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1581945649565" />
+    <state x="391" y="104" width="574" height="593" key="MultipleFileMergeDialog" timestamp="1581945649570">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="391" y="104" width="574" height="593" key="MultipleFileMergeDialog/0.27.1366.741@0.27.1366.741" timestamp="1581945649570" />
+    <state x="527" y="306" width="302" height="190" key="VCS.ChangelistChooser" timestamp="1581935419452">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="527" y="306" width="302" height="190" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1581935419452" />
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1581945680477">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1581945680477" />
+    <state x="417" y="52" width="508" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1581935539879">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="417" y="52" width="508" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1366.741@0.27.1366.741" timestamp="1581935539879" />
+    <state x="454" y="312" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581945617642">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="454" y="312" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1581945617642" />
+    <state x="298" y="27" width="760" height="741" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581945640456">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="298" y="27" width="760" height="741" key="git4idea.branch.GitSmartOperationDialog/0.27.1366.741@0.27.1366.741" timestamp="1581945640456" />
+    <state x="337" y="172" width="681" height="457" key="git4idea.merge.GitPullDialog" timestamp="1581945728038">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="337" y="172" width="681" height="457" key="git4idea.merge.GitPullDialog/0.27.1366.741@0.27.1366.741" timestamp="1581945728038" />
+  </component>
+</project>
