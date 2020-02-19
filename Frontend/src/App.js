@@ -10,11 +10,11 @@ function App() {
 
   const startListen = () => {
     setStaListen(true);    
-  }
+  };
 
   const stopListen = () => {
     setStaListen(false);
-  }
+  };
 
   useEffect(()=>{
 
@@ -47,7 +47,7 @@ function App() {
 
     recog.onstart = () => {
       console.log("Listening");
-    }
+    };
 
     let finalTranscript = "";
 
@@ -84,9 +84,6 @@ function App() {
     }
 
   },[staListen]);
-
-  
-
 
   return (
     <div>

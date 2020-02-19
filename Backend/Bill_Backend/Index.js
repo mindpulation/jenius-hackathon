@@ -6,9 +6,10 @@ const app = new express();
 const routes = require('./Routes/Index');
 
 app.use('/', routes);
-app.use(bp.json());
+app.use(bp.json()); // support json encoded bodies
+app.use(bp.urlencoded({ extended: true }));
 
-app.listen(2000, (err) => {
+app.listen(2001, (err) => {
 
     if(err){ console.log("Error Starting Microservices") }
 
@@ -17,6 +18,6 @@ app.listen(2000, (err) => {
     app.delete('*', async( req, res ) => { res.send({ status: "OK" }) });
     app.get('*', async( req, res ) => { res.send({ status: "OK" }) });
 
-    console.log(" Bill Microservices Successfuly Running At http://localhost:4000 ");
+    console.log(" Bill Microservices Successfuly Running At http://localhost:2001 ");
 
 });
