@@ -23,6 +23,19 @@ class IndexControllers{
         return Get.getProductSponsor(param);
     }
 
+    requestPaymentPDAM(param){
+        return Post.payPDAM(param);
+    }
+
+    //Pulsa
+    requestPulsaPrice(param){
+        return Post.pulsaPrice(param);
+    }
+
+    requestPulsaPriceDummy(){
+        return Post.pulsaPriceDummy();
+    }
+
 }
 
 module.exports = IndexControllers;
