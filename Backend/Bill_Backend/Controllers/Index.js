@@ -36,6 +36,11 @@ class IndexControllers{
         return Post.pulsaPriceDummy();
     }
 
+    //PLN
+    requestPlnPrice(param){
+        return Post.checkPlnBill(param);
+    }
+
 }
 
 module.exports = IndexControllers;

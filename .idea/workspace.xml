@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6abe90d4-fa7b-4241-a9c9-3eb12c6fa785" name="Default Changelist" comment="fixup! V1">
-      <change afterPath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Key.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Key.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Key.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Bill_Backend/Controllers/Post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Bill_Backend/Routes/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Bill_Backend/Routes/Index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Bill_Backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Bill_Backend/package-lock.json" afterDir="false" />
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev-indra" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +53,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,6 +89,8 @@
       <workItem from="1582519173155" duration="4400000" />
       <workItem from="1582558204794" duration="3294000" />
       <workItem from="1582613953153" duration="13269000" />
+      <workItem from="1582635457505" duration="3213000" />
+      <workItem from="1582674073625" duration="10430000" />
     </task>
     <task id="LOCAL-00001" summary="Add Backend Implementation">
       <created>1581474465534</created>
@@ -110,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581654458594</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Package-lock">
+      <created>1582635495247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582635495247</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixup Pulsa&amp;Data endpoint">
+      <created>1582641552458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582641552458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,13 +150,15 @@
     <MESSAGE value="Add Backend Implementation" />
     <MESSAGE value="Add Bill Backend Implementation" />
     <MESSAGE value="Add Transfer bank feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Transfer bank feature" />
+    <MESSAGE value="Package-lock" />
+    <MESSAGE value="Fixup Pulsa&amp;Data endpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixup Pulsa&amp;Data endpoint" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2" timestamp="1581936311391">
+    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2" timestamp="1582641552217">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581936311391" />
+    <state x="224" y="27" width="907" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582641552217" />
     <state x="460" y="144" width="424" height="521" key="FileChooserDialogImpl" timestamp="1582255945406">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -156,10 +175,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="527" y="306" width="302" height="190" key="VCS.ChangelistChooser/0.27.1366.741@0.27.1366.741" timestamp="1581935419452" />
-    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1582632130103">
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1582684978153">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582632130103" />
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582684978153" />
     <state x="417" y="52" width="508" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1581935539879">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -180,9 +199,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1582078222905" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582628182798">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582635714797">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1582628182798" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1582635714797" />
   </component>
 </project>
